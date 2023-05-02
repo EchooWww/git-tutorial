@@ -2,3 +2,6 @@ Hello world!
 Hello hello world!
 Hello hello pig!
 This is my new feature
+Feature3 feature3
+Feature3 added
+Feature3 pleaseee
